@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoRTK/static/css/main.022560d1.css",
+    "main.js": "/todoRTK/static/js/main.d54cae30.js",
+    "index.html": "/todoRTK/index.html",
+    "main.022560d1.css.map": "/todoRTK/static/css/main.022560d1.css.map",
+    "main.d54cae30.js.map": "/todoRTK/static/js/main.d54cae30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022560d1.css",
+    "static/js/main.d54cae30.js"
+  ]
+}
